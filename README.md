@@ -1,9 +1,8 @@
-# maria
- Um Assistente Virtual feito Em Python.
+# Artemis
+ Um Assistente virtual adaptada para a Versão da Artemis em Python
 
  Foco:
-    Fácil de aprender.
-    Rápido e expansível.
+    Teste de ML na ferramenta adaptada
 
 Técnologias:
     Reconhecimento de voz: (Google para reconhecimento online, Vosk para reconhecimento offline)
